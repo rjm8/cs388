@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="intro">Hello World! Socrates once said \'hello\' to his dear friend. I hope to be like him one day.</string>
+    <string name="button">Button</string>
 </resources>
